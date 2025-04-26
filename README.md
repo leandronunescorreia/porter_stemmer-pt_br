@@ -27,4 +27,4 @@ Portuguese grammar:
 
 
 ## Algorithm FlowChart
-![image info](assets\flow-chart.png)
+![image info](assets/flow-chart.png)
