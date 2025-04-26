@@ -18,8 +18,12 @@ This stemmer is lightweight, fast, and designed for tasks such as information re
 ###### References:
 
 About Porter algorithm:
-[Felipe Nunes Flores - Avaliando o Impactor da Qualidade de um algoritmo de Stemming na recuperação de informações
-](https://lume.ufrgs.br/bitstream/handle/10183/18532/000730582.pdf?sequence=1)
+[Felipe Nunes Flores - Avaliando o Impactor da Qualidade de um algoritmo de Stemming na recuperação de informações](https://lume.ufrgs.br/bitstream/handle/10183/18532/000730582.pdf?sequence=1)
+
+
+
 [Alexandre Ramos Coelho = Stemming para a Língua portuguesa](https://lume.ufrgs.br/bitstream/handle/10183/23576/000597277.pdf?sequence=1)
 
+
+Portuguese grammar:
 [About portuguese prefixes and sufixes](https://www.educamaisbrasil.com.br/enem/lingua-portuguesa/prefixo-e-sufixo)
