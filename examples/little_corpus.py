@@ -13,12 +13,13 @@ with open("stop_words.json", "r", encoding="utf-8") as file:
     stop_words = set(stop_words)
 
 sample_text = """
-Cantei, cantaremos, cantavam, cantando, cantaria, cantarão!
+Cantei, cantaremos, cantavam, cantando, cantarão!
 Falava, falaram, falando, falaríamos.
 Vendemos, venderiam, venderão, vendendo.
 Corriam, correrei, correriam, correndo.
 Abriram, abrirei, abririam, abrindo.
 """
+
 
 def main():
     tokens = tokenize(sample_text, stop_words=stop_words)
