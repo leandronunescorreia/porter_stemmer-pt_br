@@ -1,7 +1,7 @@
 from .data import feminine_rules
 
-def process_rule(word, rules):
-    for suffix, min_stem_len, replacement in rules:
+def process_rule(word, dictionary):
+    for suffix, min_stem_len, replacement in dictionary:
         if word.endswith(suffix):
             stem = word[:-len(suffix)]
             if len(stem) >= min_stem_len:
