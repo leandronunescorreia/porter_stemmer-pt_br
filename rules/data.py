@@ -137,3 +137,4 @@ nominative_rules = [
         ("ável", 2, "")
 ]
 
+adverbial_rules = [('mente', 4, '')]
