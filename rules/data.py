@@ -39,3 +39,32 @@ feminine_rules = [
         ("riz",    2, "or"),## personal addition
         ("oa",    2, "ão"),## personal addition
     ]
+
+
+augmentative_rules = [
+    ('díssimo', 5, ''),
+    ('abilíssimo',5, ''),
+    ('íssimo', 4, ''),
+    ('issimo', 3, ''),
+    ('ésimo',  3, ''),
+    ('érrimo', 4, ''),
+    ('zinho', 2, ''),
+    ('quinho', 4, 'co'),
+    ('uinho', 4, ''),
+    ('adinho', 3, ''),
+    ('inho', 3, ''),
+    ('alhão', 4, ''),
+    ('uça',  4, ''),
+    ('aço',  4, ''),
+    ('aça',  4, ''),
+    ('adão', 4, 'cidadão'),
+    ('idão', 4, ''),
+    ('ázio', 3, ''),
+    ('arraz',4, ''),
+    ('zarrão', 3, ''),
+    ('arrão', 4, ''),
+    ('arra', 3, ''),
+    ('zão', 2, ''),
+    ('ão', 3, ''),
+    ("acho", 2, 'o')
+]
