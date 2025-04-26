@@ -18,6 +18,9 @@ feminine_rules = [
         ("ona",     3, "ão"),
         ("ora",     3, "or"),
         ("na",      4, "no"),
+        ("da",      2, "do"),## personal addition
+        ("ca",      2, "co"),## personal addition
+        ("va",      2, "vo"),## personal addition
         ("inha",    3, "inho"),
         ("esa",     3, "ês"),
         ("osa",     3, "oso"),
@@ -30,5 +33,9 @@ feminine_rules = [
         ("iva",     3, "ivo"),
         ("iera",    2, "eiro"),
         ("ã",       2, "ão"),
-        ("ia",       5, "io"),## personal addition
+        ("ia",      5, "io"),## personal addition
+        ("ista",    5, "ista"),## personal addition
+        ("eira",    5, "eiro"),## personal addition
+        ("riz",    2, "or"),## personal addition
+        ("oa",    2, "ão"),## personal addition
     ]
